@@ -80,11 +80,11 @@ const MenuHero = () => {
             Best Special Menu
           </h1>
         </div>
-        <div className="flex flex-wrap p-10 gap-10  justify-center ">
+        <div className="flex flex-wrap p-10 gap-10  justify-center mt-10 ">
           {menucard.map((item) => {
             return (
               <>
-                <div className="flex flex-col items-center text-center gap-3 w-72 h-72 mb-32 ">
+                <div className="flex flex-col items-center text-center gap-3 w-72 h-72 mb-40 ">
                   <img
                     className="w-62 h-62 rounded-xl hover:shadow-gray-100 hover:shadow-md transition-shadow duration-300 ease-in-out "
                     src={item.img}
