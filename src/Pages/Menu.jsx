@@ -4,10 +4,10 @@ import MenuHero from "../components/MenuHero";
 
 const Menu = () => {
   return (
-    <div>
+    <>
       <Navbar />
       <MenuHero />
-    </div>
+    </>
   );
 };
 
