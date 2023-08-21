@@ -4,8 +4,8 @@ import { SubHeading } from "../../components";
 import { images } from "../../constants";
 import "./Chef.css";
 
-const Chef = () => (
-  <div className="app__bg app__wrapper section__padding -mt-28">
+const ChefAbout = () => (
+  <div className="app__bg app__wrapper section__padding pt-[1500px] lg:pt-[500px]">
     <div className="app__wrapper_img app__wrapper_img-reverse">
       <img src={images.chef} alt="chef_image" />
     </div>
@@ -37,4 +37,4 @@ const Chef = () => (
   </div>
 );
 
-export default Chef;
+export default ChefAbout;

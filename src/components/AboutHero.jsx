@@ -2,6 +2,7 @@ import React from "react";
 import "./AboutHero.css";
 import Services from "../components/Services";
 import { Chef, Footer } from "../container";
+import ChefAbout from "../container/Chef/ChefAbout";
 
 const AboutHero = () => {
   return (
@@ -50,7 +51,7 @@ const AboutHero = () => {
         </div>
       </div>
       <div className="">
-        <Chef />
+        <ChefAbout />
       </div>
 
       <div className="pt-">
