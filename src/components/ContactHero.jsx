@@ -1,5 +1,6 @@
 import React from "react";
 import GoogleMapReact from "google-map-react";
+import { Footer } from "../container";
 
 const AnyReactComponent = ({ text }) => <div>{text}</div>;
 const ContactHero = () => {
@@ -44,6 +45,7 @@ const ContactHero = () => {
           />
         </GoogleMapReact>
       </div>
+      <Footer />
     </>
   );
 };
