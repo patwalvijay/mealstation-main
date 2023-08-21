@@ -45,11 +45,11 @@ const AboutHero = () => {
           </div>
         </div>
 
-        <div className="pt-8 mb-40">
+        <div className="pt-8 ">
           <Services />
         </div>
       </div>
-      <div className="pt-80">
+      <div className="">
         <Chef />
       </div>
 
