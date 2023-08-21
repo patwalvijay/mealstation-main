@@ -9,7 +9,7 @@ const Header = () => (
   <div className="app__header app__wrapper section__padding" id="home">
     <div className="app__wrapper_info">
       <SubHeading title="Chase the new flavour" />
-      <h1 className="app__header-h1">
+      <h1 className="app__header-h1 lg:h-64 h-36">
         {" "}
         <TypewriterComponent
           options={{
