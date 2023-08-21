@@ -1,11 +1,12 @@
 import React from "react";
 import { Navbar } from "../components";
+import ContactHero from "../components/ContactHero";
 
 const Contact = () => {
   return (
     <>
       <Navbar />
-      This is Contact Page
+      <ContactHero />
     </>
   );
 };
