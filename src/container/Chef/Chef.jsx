@@ -17,19 +17,21 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .
+            Exceptional service is the heartbeat of our restaurant.
           </p>
         </div>
         <p className="p__opensans">
           {" "}
-          auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.
-          Nulla scelerisque scelerisque congue ac consequat, aliquam molestie
-          lectus eu. Congue iaculis integer curabitur semper sit nunc.{" "}
+          At Meal Station, our philosophy is grounded in a deep appreciation for
+          the art of dining. We believe that food is more than sustenance; it's
+          an experience that should elevate your senses and nourish your soul.
+          Our core values reflect our commitment to delivering this exceptional
+          experience:{" "}
         </p>
       </div>
 
       <div className="app__chef-sign">
-        <p>Kevin Luo</p>
+        <p> Gunjan Joshi Mahendru</p>
         <p className="p__opensans">Chef & Founder</p>
         {/* <img src={images.sign} alt="sign_image" /> */}
       </div>

@@ -1,8 +1,8 @@
 import React from "react";
 import GoogleMapReact from "google-map-react";
-import { Footer } from "../container";
+import { FindUs, Footer } from "../container";
 
-const AnyReactComponent = ({ text }) => <div>{text}</div>;
+const AnyReactComponent = ({ mealstation }) => <div>{mealstation}</div>;
 const ContactHero = () => {
   const defaultProps = {
     center: {
@@ -45,6 +45,8 @@ const ContactHero = () => {
           />
         </GoogleMapReact>
       </div>
+
+      <FindUs />
       <Footer />
     </>
   );

@@ -11,49 +11,108 @@ const menucard = [
     price: "₹250.00",
   },
   {
-    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-11_k0yncc.jpg",
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638766/menu-image-18_nyu8ws.jpg",
     title: "Kali Chiken",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
     price: "₹250.00",
   },
   {
-    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-11_k0yncc.jpg",
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638766/menu-image-17_qqdqbp.jpg",
     title: "Kali Chiken",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
     price: "₹250.00",
   },
   {
-    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-11_k0yncc.jpg",
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638766/menu-image-16_pecynb.jpg",
     title: "Kali Chiken",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
     price: "₹250.00",
   },
   {
-    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-11_k0yncc.jpg",
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638766/menu-image-15_mao06t.jpg",
     title: "Kali Chiken",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
     price: "₹250.00",
   },
   {
-    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-11_k0yncc.jpg",
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-13_vshjyf.jpg",
     title: "Kali Chiken",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
     price: "₹250.00",
   },
   {
-    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-11_k0yncc.jpg",
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-14_up4jtb.jpg",
     title: "Kali Chiken",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
     price: "₹250.00",
   },
   {
-    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-11_k0yncc.jpg",
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-12_fhjzg2.jpg",
+    title: "Kali Chiken",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
+    price: "₹250.00",
+  },
+];
+
+const menucardNew = [
+  {
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692717849/menu3_buj4td.jpg",
+    title: "Kali Chiken",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
+    price: "₹250.00",
+  },
+  {
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692717850/ins_gal4_lgwvqr.jpg",
+    title: "Kali Chiken",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
+    price: "₹250.00",
+  },
+  {
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692717850/ins_gal3_tu7k2u.jpg",
+    title: "Kali Chiken",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
+    price: "₹250.00",
+  },
+  {
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692717849/menu_r3_rwvbww.jpg",
+    title: "Kali Chiken",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
+    price: "₹250.00",
+  },
+  {
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692717850/menu_r5_ckeib4.jpg",
+    title: "Kali Chiken",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
+    price: "₹250.00",
+  },
+  {
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692717849/menu_r4_ubjc01.jpg",
+    title: "Kali Chiken",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
+    price: "₹250.00",
+  },
+  {
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692731090/ins_gal6_yfmmwb.jpg",
+    title: "Kali Chiken",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
+    price: "₹250.00",
+  },
+  {
+    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-12_fhjzg2.jpg",
     title: "Kali Chiken",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, atque dolore",
@@ -137,7 +196,7 @@ const MenuHero = () => {
         </div>
 
         <div className="flex flex-wrap p-10 gap-10  justify-center mt-10 ">
-          {menucard.map((item) => {
+          {menucardNew.map((item) => {
             return (
               <>
                 <div className="flex flex-col items-center text-center gap-3 w-72 h-72 mb-32 ">

@@ -40,12 +40,12 @@ const Navbar = () => {
         </Link>
       </ul>
       <div className="app__navbar-login">
-        <a href="#login" className="p__opensans">
-          Log In / Registration
+        <a href="tel: +91 6397 245 399" className="p__opensans">
+          +916397245399
         </a>
         <div />
-        <a href="/" className="p__opensans">
-          Book Table
+        <a className="text-[10px] text-white">
+          Uttarakhand technical university sudhowala dehradun
         </a>
       </div>
       <div className="app__navbar-smallscreen">

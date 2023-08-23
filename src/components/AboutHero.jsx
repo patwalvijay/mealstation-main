@@ -3,6 +3,7 @@ import "./AboutHero.css";
 import Services from "../components/Services";
 import { Chef, Footer } from "../container";
 import ChefAbout from "../container/Chef/ChefAbout";
+import TestimonialNew from "./TestimonialNew";
 
 const AboutHero = () => {
   return (
@@ -52,6 +53,10 @@ const AboutHero = () => {
       </div>
       <div className="">
         <ChefAbout />
+      </div>
+
+      <div>
+        <TestimonialNew />
       </div>
 
       <div className="pt-">
