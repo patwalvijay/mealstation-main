@@ -59,7 +59,7 @@ const TestimonialNew = () => {
                 src="https://res.cloudinary.com/dpzhezt6x/image/upload/v1692858147/352442238_1678908975914283_6682191979308150059_n_tdrfdh.jpg"
                 alt=""
               />
-              <h1 className="text-[18px] pt-5 text-white text">vishal Yadav</h1>
+              <h1 className="text-[18px] pt-5 text-white text">vishal Singh</h1>
               <h1 className="text-[15px] text-white text">Customer</h1>
             </div>
             <div className="flex :w-[75%] h-[450px] flex-col justify-center text-center items-center  bg-[url('https://res.cloudinary.com/dpzhezt6x/image/upload/v1692563273/bg_f17kvb.png')] w-full bg-cover">
