@@ -162,8 +162,9 @@ const MenuHero = () => {
             <div className="flex flex-col gap-2">
               <h1 className="text-[42px]">Private Events</h1>
               <p>
-                Lorem Ipsum is simply dummy printing and typeset industry lorem
-                Ipsum has been the industrys.
+                Elevate your special moments with us. Book your private event at
+                our restaurant for an unforgettable experience. Exquisite venue,
+                impeccable service.
               </p>
             </div>
             <div className="flex flex-col gap-2">

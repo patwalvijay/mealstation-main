@@ -31,16 +31,10 @@ const TestimonialNew = () => {
             <div className="flex :w-[75%] h-[450px] flex-col justify-center text-center items-center  bg-[url('https://res.cloudinary.com/dpzhezt6x/image/upload/v1692563273/bg_f17kvb.png')] w-full bg-cover">
               <h1 className=" text-[32px] text-white text">Testimonial</h1>
               <p className="px-14 pt-10 text-center text text-white">
-                I've been a loyal patron of I've been a loyal patron of The Meal
-                Station for years, and I can confidently say that it's the best
-                dining experience you can find in Los Angeles. The consistent
-                quality of the food and the exceptional service keep me coming
-                back. Whether it's a casual lunch or a special occasion dinner,
-                this restaurant always delivers for years, and I can confidently
-                say that it's the best dining experience you can find in Los
-                Angeles. The consistent quality of the food and the exceptional
-                service keep me coming back. Whether it's a casual lunch or a
-                special occasion dinner, this restaurant always delivers
+                I had the pleasure of dining at The Meal Station last night, and
+                I must say, it was an extraordinary culinary experience. From
+                the moment I stepped in, I was greeted with warm smiles and
+                impeccable service.
               </p>
               <img
                 className="w-24 h-24 pt-5 rounded-full"
