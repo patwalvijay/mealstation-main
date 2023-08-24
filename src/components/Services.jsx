@@ -22,9 +22,8 @@ const Services = () => {
               <div className="text-white lg:w-80">
                 <h1 className="text text-lg">Door Delivery</h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Aperiam, voluptate fugiat rem voluptatem quidem earum dicta
-                  iusto accusantium magnam in.
+                  We bring our exquisite cuisine to your doorstep - fast, fresh,
+                  and hassle-free. Enjoy The Meal Station wherever you are.
                 </p>
               </div>
             </div>
@@ -37,9 +36,9 @@ const Services = () => {
               <div className="text-white lg:w-80">
                 <h1 className="text text-lg">Fine Dining</h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Aperiam, voluptate fugiat rem voluptatem quidem earum dicta
-                  iusto accusantium magnam in.
+                  Immerse yourself in an unparalleled culinary journey. Indulge
+                  in exquisite flavors, impeccable service, and an ambiance that
+                  transcends dining.
                 </p>
               </div>
             </div>
@@ -63,9 +62,8 @@ const Services = () => {
               <div className="text-white lg:w-80">
                 <h1 className="text text-lg">Outdoor Catering</h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Aperiam, voluptate fugiat rem voluptatem quidem earum dicta
-                  iusto accusantium magnam in.
+                  Elevate your events with our delectable cuisine. From weddings
+                  to corporate gatherings, let us cater to your culinary needs.
                 </p>
               </div>
             </div>
@@ -78,9 +76,9 @@ const Services = () => {
               <div className="text-white lg:w-80 ">
                 <h1 className="text-lg text">Banquets Hall</h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Aperiam, voluptate fugiat rem voluptatem quidem earum dicta
-                  iusto accusantium magnam in.
+                  Elevate your events with our spacious and elegant banquet
+                  hall. Perfect for weddings, parties, and corporate gatherings.
+                  Exceptional service guaranteed.
                 </p>
               </div>
             </div>
