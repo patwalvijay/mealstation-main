@@ -20,7 +20,7 @@ const TestimonialNew = () => {
         </div>
       </div>
       <div className="flex justify-center pb-14 ">
-        <div className="lg:w-[75%] bg-gray-200 rounded-3xl justify-center shadow-2xl md:[350px] -mt-20">
+        <div className="lg:w-[75%] w-full  bg-gray-200 rounded-3xl justify-center shadow-2xl md:[350px] -mt-20">
           <Carousel
             transition={{ type: "tween", duration: 2 }}
             autoplay={false}
@@ -28,7 +28,7 @@ const TestimonialNew = () => {
             loop={false}
             className="rounded-none "
           >
-            <div className="flex :w-[75%] h-[450px] flex-col justify-center text-center items-center  bg-[url('https://res.cloudinary.com/dpzhezt6x/image/upload/v1692563273/bg_f17kvb.png')] w-full bg-cover">
+            <div className="flex w-full  h-[450px] flex-col justify-center text-center items-center  bg-[url('https://res.cloudinary.com/dpzhezt6x/image/upload/v1692563273/bg_f17kvb.png')] bg-cover">
               <h1 className=" text-[32px] text-white text">Testimonial</h1>
               <p className="px-14 pt-10 text-center text text-white">
                 I had the pleasure of dining at The Meal Station last night, and
