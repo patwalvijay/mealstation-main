@@ -143,7 +143,7 @@ const MenuHero = () => {
           {menucard.map((item) => {
             return (
               <>
-                <div className="flex flex-col items-center text-center gap-3 w-72 h-88 mb-40 ">
+                <div className="flex flex-col items-center text-center gap-3 w-72 lg:h-96 h-72 mb-40 ">
                   <img
                     className="rounded-xl w-64 h-72 hover:shadow-gray-100 hover:shadow-md transition-shadow duration-300 ease-in-out "
                     src={item.img}
@@ -199,7 +199,7 @@ const MenuHero = () => {
           {menucardNew.map((item) => {
             return (
               <>
-                <div className="flex flex-col items-center text-center gap-3 w-72 h-88 mb-32 ">
+                <div className="flex flex-col items-center text-center gap-3 w-72 lg:h-96 h-72 mb-32 ">
                   <img
                     className="w-64 h-72 rounded-xl hover:shadow-gray-100 hover:shadow-md transition-shadow duration-300 ease-in-out "
                     src={item.img}
