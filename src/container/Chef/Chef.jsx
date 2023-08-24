@@ -22,11 +22,11 @@ const Chef = () => (
         </div>
         <p className="p__opensans">
           {" "}
-          At Meal Station, our philosophy is grounded in a deep appreciation for
-          the art of dining. We believe that food is more than sustenance; it's
-          an experience that should elevate your senses and nourish your soul.
-          Our core values reflect our commitment to delivering this exceptional
-          experience:{" "}
+          At The Meal Station, our philosophy is grounded in a deep appreciation
+          for the art of dining. We believe that food is more than sustenance;
+          it's an experience that should elevate your senses and nourish your
+          soul. Our core values reflect our commitment to delivering this
+          exceptional experience:{" "}
         </p>
       </div>
 

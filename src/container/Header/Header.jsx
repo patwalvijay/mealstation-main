@@ -21,8 +21,8 @@ const Header = () => (
         />
       </h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
-        At Meal Station, we believe in more than just nourishing appetites; we
-        nourish souls. Our welcoming atmosphere and impeccable service ensure
+        At The Meal Station, we believe in more than just nourishing appetites;
+        we nourish souls. Our welcoming atmosphere and impeccable service ensure
         that every visit is a memorable occasion.
       </p>
       <button type="button" className="custom__button">

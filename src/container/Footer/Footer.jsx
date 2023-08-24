@@ -25,7 +25,11 @@ const Footer = () => (
       </div>
 
       <div className="app__footer-links_logo">
-        <img src={images.gericht} alt="footer_logo" />
+        <img
+          className="w-32 h-32"
+          src="https://res.cloudinary.com/dpzhezt6x/image/upload/v1692850618/WhatsApp_Image_2023-08-24_at_7.10.44_AM_dt1pgg.jpg"
+          alt="footer_logo"
+        />
         <p className="p__opensans">
           &quot;The best way to find yourself is to lose yourself in the service
           of others.&quot;

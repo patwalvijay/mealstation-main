@@ -11,7 +11,11 @@ const Navbar = () => {
     <nav className="app__navbar">
       <Link to="/">
         <div className="app__navbar-logo">
-          <img src={images.gericht} alt="app__logo" />
+          <img
+            className="w-24 h-24 "
+            src="https://res.cloudinary.com/dpzhezt6x/image/upload/v1692850618/WhatsApp_Image_2023-08-24_at_7.10.44_AM_dt1pgg.jpg"
+            alt="app__logo"
+          />
         </div>
       </Link>
       <ul className="app__navbar-links">

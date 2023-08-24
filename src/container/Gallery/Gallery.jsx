@@ -31,13 +31,13 @@ const Gallery = () => {
           className="p__opensans"
           style={{ color: "#AAAAAA", marginTop: "2rem" }}
         >
-          Dive into the visual feast of Meal Station. Our photo gallery is a
+          Dive into the visual feast of The Meal Station. Our photo gallery is a
           glimpse into the world of tantalizing flavors, inviting ambiance, and
           memorable moments that await you here. From exquisite dishes that are
           almost too beautiful to eat to the cozy elegance of our dining spaces,
-          these images capture the essence of what makes dining at Meal Station
-          a unique experience. Let the gallery inspire your next visit and be a
-          part of our ongoing culinary story.
+          these images capture the essence of what makes dining at The Meal
+          Station a unique experience. Let the gallery inspire your next visit
+          and be a part of our ongoing culinary story.
         </p>
         <button type="button" className="custom__button">
           View More

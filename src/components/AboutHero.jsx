@@ -19,7 +19,7 @@ const AboutHero = () => {
         <div className="flex flex-col justify-center items-center text-center tracking-widest pt-10 lg:pt-10 lg:px-[18%]">
           <h1 className="text lg:text-[24px]">WHO WE ARE</h1>
           <p className="text-white mt-5 lg:text-[24px]">
-            Welcome to Meal Station, where culinary excellence meets warm
+            Welcome to The Meal Station, where culinary excellence meets warm
             hospitality! Nestled in the{" "}
             <span className="text"> heart of Dehradun</span>, we are thrilled to
             invite you on a gastronomic journey that promises to tantalize your

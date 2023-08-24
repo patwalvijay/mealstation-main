@@ -17,11 +17,11 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          At Meal Station, we are more than just a place to dine; we are a
+          At The Meal Station, we are more than just a place to dine; we are a
           culinary destination designed to delight your senses and nourish your
           soul. Our journey began with a simple yet profound idea – to create a
           haven where extraordinary food, exceptional service and a welcoming
-          atmosphere converge. Meal Stations is the realization of a dream
+          atmosphere converge. The Meal Stations is the realization of a dream
           shared by a team of passionate food enthusiasts. We embarked on a
           mission to redefine the dining experience in Dehradun, inspired by a
           deep love for the art of cooking and a commitment to using the finest,
@@ -38,7 +38,7 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          The history of Meal Stations is a tale of passion, flavor, and a
+          The history of The Meal Stations is a tale of passion, flavor, and a
           commitment to culinary excellence that spans generations. Established
           in 2021, we carry forward a legacy deeply rooted in the art of
           gastronomy. Our journey began when Gunjan Joshi Mahendru, a visionary
