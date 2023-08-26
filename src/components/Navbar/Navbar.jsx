@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="app__navbar-logo">
           <img
             className="w-24 h-24 "
-            src="https://res.cloudinary.com/dpzhezt6x/image/upload/v1692850618/WhatsApp_Image_2023-08-24_at_7.10.44_AM_dt1pgg.jpg"
+            src="https://res.cloudinary.com/dpzhezt6x/image/upload/v1693052771/WhatsApp_Image_2023-08-26_at_1.45.05_PM_kvpool.jpg"
             alt="app__logo"
           />
         </div>

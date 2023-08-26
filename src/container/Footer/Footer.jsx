@@ -27,7 +27,7 @@ const Footer = () => (
       <div className="app__footer-links_logo">
         <img
           className="w-32 h-32"
-          src="https://res.cloudinary.com/dpzhezt6x/image/upload/v1692850618/WhatsApp_Image_2023-08-24_at_7.10.44_AM_dt1pgg.jpg"
+          src="https://res.cloudinary.com/dpzhezt6x/image/upload/v1693052771/WhatsApp_Image_2023-08-26_at_1.45.05_PM_kvpool.jpg"
           alt="footer_logo"
         />
         <p className="p__opensans">

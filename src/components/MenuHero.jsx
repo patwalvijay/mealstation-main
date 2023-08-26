@@ -4,7 +4,7 @@ import { Footer } from "../container";
 
 const menucard = [
   {
-    img: "https://res.cloudinary.com/dpzhezt6x/image/upload/v1692638767/menu-image-11_k0yncc.jpg",
+    img: "https://www.themomoking.com/wp-content/uploads/2020/09/menu-3.jpg",
     title: "Mutton Kothey",
     description:
       "Succulent mutton, expertly spiced, and skillfully cooked. A flavorful journey you won't want to miss!",
